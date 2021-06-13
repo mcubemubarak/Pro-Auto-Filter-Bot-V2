@@ -3,13 +3,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/MoTechYT/Pro-Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/Mcubemubarak/Pro-Auto-Filter-Bot-V2/stargazers">
+    <img src="https://img.shields.io/github/stars/Mcubemubarak/Pro-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/Mcubemubarak/Pro-Auto-Filter-Bot-V2/fork">
+    <img src="https://img.shields.io/github/forks/Mcubemubarak/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -22,7 +22,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Mcubemubarak/Pro-Auto-Filter-Bot-V2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
