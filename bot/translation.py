@@ -7,9 +7,7 @@ class Translation(object):
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
 <b>I am a cloud bot....😜</b>
-
 <b>Created by McubeMedia....🎉</b>
-
 <b>Capacity 100TB...</b>"""    
     
     HELP_TEXT = """
